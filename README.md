@@ -52,7 +52,7 @@
 
 ### 🎨 Design & Modeling
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" alt="Design"/>
+  <img src="https://skillicons.dev/icons?i=figma,tensorflow" alt="Design"/>
 </div>
 
 ### 🔧 Development Environment
