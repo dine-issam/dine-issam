@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/95495584/194896166-7cef5a2a-44ff-4b07-b770-c03f9fb04626.gif)](https://linktr.ee/DineIssam)
+[![MasterHead]([https://user-images.githubusercontent.com/95495584/194896166-7cef5a2a-44ff-4b07-b770-c03f9fb04626.gif](https://camo.githubusercontent.com/c4a36e4d785abf0d18994460af182ce55df8155200dfe51bb0c9ea3b00cf194c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966))](https://linktr.ee/DineIssam)
 
 <h1 align="center">Hi 👋, I'm Dine Issam</h1>
 <h3 align="center">Software Engineer | Backend (Spring Boot / Java) & Mobile (Flutter)</h3>
